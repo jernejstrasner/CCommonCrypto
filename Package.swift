@@ -3,6 +3,5 @@
 import PackageDescription
 
 let package = Package(
-    name: "CCommonCrypto",
-    pkgConfig: "CommonCrypto"
+    name: "CCommonCrypto"
 )
